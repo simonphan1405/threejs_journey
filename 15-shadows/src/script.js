@@ -11,7 +11,7 @@ const simpleShadow = textureLoader.load("/textures/simpleShadow.jpg");
 
 /**
  * Base
- */
+*/
 // Debug
 const gui = new GUI();
 
